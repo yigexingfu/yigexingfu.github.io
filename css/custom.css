@@ -1,0 +1,19 @@
+/* 补全抖音/快手图标，和现有字体图标表现完全一致 */
+.nexmoe-widget-social a[title="抖音"] i,
+.nexmoe-widget-social a[title="快手"] i {
+  -webkit-mask: center/contain no-repeat;
+  mask: center/contain no-repeat;
+  background: currentColor; /* 自动继承你配置的抖音黄/快手橙，hover也会跟着变色 */
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  vertical-align: -0.15em; /* 和B站/微博图标垂直对齐 */
+}
+.nexmoe-widget-social a[title="抖音"] i {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/douyin.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/douyin.svg");
+}
+.nexmoe-widget-social a[title="快手"] i {
+  -webkit-mask-image: url("https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/kuaishou.svg");
+  mask-image: url("https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/kuaishou.svg");
+}
