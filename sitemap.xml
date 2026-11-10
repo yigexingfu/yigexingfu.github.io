@@ -222,6 +222,20 @@
   </url>
   
   <url>
+    <loc>http://www.yigexingfu.com/tags/Nas/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.yigexingfu.com/tags/remmina/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.yigexingfu.com/tags/son/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -236,7 +250,7 @@
   </url>
   
   <url>
-    <loc>http://www.yigexingfu.com/tags/remmina/</loc>
+    <loc>http://www.yigexingfu.com/tags/Gimp/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -264,21 +278,7 @@
   </url>
   
   <url>
-    <loc>http://www.yigexingfu.com/tags/Nas/</loc>
-    <lastmod>2026-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.yigexingfu.com/tags/Shell/</loc>
-    <lastmod>2026-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.yigexingfu.com/tags/Gimp/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -315,7 +315,7 @@
   </url>
   
   <url>
-    <loc>http://www.yigexingfu.com/categories/IT/IT-Shell/</loc>
+    <loc>http://www.yigexingfu.com/categories/happy-life/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -329,13 +329,6 @@
   </url>
   
   <url>
-    <loc>http://www.yigexingfu.com/categories/happy-life/</loc>
-    <lastmod>2026-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.yigexingfu.com/categories/IT/IT-C/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -344,6 +337,13 @@
   
   <url>
     <loc>http://www.yigexingfu.com/categories/IT/IT-C/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.yigexingfu.com/categories/IT/IT-Shell/</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
